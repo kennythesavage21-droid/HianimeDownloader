@@ -1,3 +1,5 @@
+python main.py
+pip install -r requirements.txt
 aria2p==0.12.1
 attrs==25.3.0
 autopep8==2.3.2
